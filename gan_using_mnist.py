@@ -146,20 +146,3 @@ for n in range(10):
 
       if epoch % sample_period == 0:
         sample_images(epoch, n)
-
-# from skimage.io import imread
-# a = imread('gan_images/0.png')
-# plt.imshow(a)
-#
-# a = imread('gan_images/2000.png')
-# plt.imshow(a)
-#
-# a = imread('gan_images/20000.png')
-# plt.imshow(a)
-#
-# a = imread('gan_images/25000.png')
-# plt.imshow(a)
-#
-# a = imread('gan_images/29800.png')
-# plt.imshow(a)
-
