@@ -2,6 +2,7 @@
 
 ### The image below is a small sample from the mnist training data
 <img src="https://github.com/BibhuLamichhane/GAN-with-MNIST/blob/master/sample.png?raw=true">
+
 ## How Generative Adversial Networks work
 
 ### There are two neural networks, the generator and the discriminator. The generator based on the training data tries to create an image. While the discriminator tries to predict if the image is real. Over multiple iterations the generator gets better at creating the image and the discriminator gets better at predicting if its real or not.
