@@ -1,9 +1,9 @@
 # GAN-with-MNIST
 
-### A neural network model which generates images based on the mnist dataset
+### The image below is a small sample from the mnist training data
+<img src="https://github.com/BibhuLamichhane/GAN-with-MNIST/sample.png">
 
-The images that were generated after i ran the code are stored in the folder "gan_images".
-You can notice the improvement in image generation as the number in the suffix of the image title increases.
+## How this works
 
 ## To run the code your self and generate new sets of images
 1. Delete the folder "gan_images"
